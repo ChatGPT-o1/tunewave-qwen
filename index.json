@@ -1,0 +1,25 @@
+{
+ "format": "tunewave-qwen-q4-1",
+ "model": "Qwen/Qwen3.5-0.8B",
+ "piece": 16777216,
+ "workers": {
+  "4": [
+   {
+    "bytes": 122727680,
+    "pieces": 8
+   },
+   {
+    "bytes": 122727680,
+    "pieces": 8
+   },
+   {
+    "bytes": 122727680,
+    "pieces": 8
+   },
+   {
+    "bytes": 122727680,
+    "pieces": 8
+   }
+  ]
+ }
+}
